@@ -21,7 +21,7 @@ export default [
     stack: ["React", "Rapid Api", "Redux"],
     link: "https://crypptoworld.netlify.app/",
     discription:
-      "This web application uses api from rapid api to get different cryptos data. It uses rtk query to query the news based on category and count. It shows overall rankings og different cryptos and their individual growing trends.",
+      "This web application uses api from rapid api to get different cryptos data. It uses rtk query to query the news based on category and count. It shows overall rankings of different cryptos and their individual growing trends.",
   },
   {
     title: "isitnewyear",
