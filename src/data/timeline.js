@@ -15,7 +15,7 @@ export default [
     year: "2018",
     title: "Seconday Education Examination",
     details:
-      "I completed my lower secondary schooling with a GPA of 3.85, with a motive to pursure computer science in future.",
+      "I completed my lower secondary schooling with a GPA of 3.85, with a motive to pursue computer science in future.",
   },
   {
     year: "2015",
