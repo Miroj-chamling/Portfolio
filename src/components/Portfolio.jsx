@@ -21,6 +21,18 @@ function Portfolio() {
           ))}
         </div>
       </div>
+
+      <h1 className=" flex items-center justify-center mt-11">
+        check out my other projects at
+        <button className=" flex justify-center items-center border p-2 rounded-lg ml-2">
+          <a
+            href="https://github.com/Miroj-chamling?tab=repositories"
+            target="_blank"
+          >
+            Github
+          </a>
+        </button>
+      </h1>
     </>
   );
 }

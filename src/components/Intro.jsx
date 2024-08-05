@@ -1,6 +1,5 @@
 import React from "react";
 import resume from "../assets/Resume.pdf";
-import { IoMdDownload } from "react-icons/io";
 
 const Intro = () => {
   return (
@@ -27,10 +26,12 @@ const Intro = () => {
         chess.
       </p>
       <button className=" flex justify-center items-center border p-2 rounded-lg">
-        <a href={resume} download="Resume.pdf">
-          Download CV
-        </a>{" "}
-        <IoMdDownload />
+        <a
+          href="https://drive.google.com/file/d/1YxlZUirFUtz79YHdv3_qCa_lC8Cj5Xxr/view?usp=drive_link"
+          target="_blank"
+        >
+          Resume
+        </a>
       </button>
     </div>
   );
