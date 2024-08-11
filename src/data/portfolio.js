@@ -24,6 +24,14 @@ export default [
       "This web application uses api from rapid api to get different cryptos data. It uses rtk query to query the news based on category and count. It shows overall rankings of different cryptos and their individual growing trends.",
   },
   {
+    title: "Prisesniper",
+    imgUrl: "/assets/pricesniper.png",
+    stack: ["Nextjs", "Typescript", "Cronjob", "Mongodb"],
+    link: "https://pricesnipper.vercel.app/",
+    discription:
+      "This app allows you to get data through webscrapping scraped from amazon sites. You can simply provide the link of the product and the product will be added to the database.",
+  },
+  {
     title: "isitnewyear",
     imgUrl: "/assets/newyear.png",
     stack: ["HTML", "CSS", "Javascript"],
@@ -38,13 +46,5 @@ export default [
     link: "#",
     discription:
       "This is a mobile application for playing our favourite childhood game 'aalo cross' as in nepali. It has a toss coin as well to decide which player chooses aalo and which chooses cross. This application helped me a lot in programming logic building.",
-  },
-  {
-    title: "Coffeo (under development)",
-    imgUrl: "/assets/coffeo.png",
-    stack: ["React", "Vite", "Express", "mongodb"],
-    link: "#",
-    discription:
-      "This application contains login and signup functionaliy along with email verification. It contains a simple CMS to manage different coffee and content which the admin can easily add, remove and edit. User can order coffee easily and pay online.",
   },
 ];
