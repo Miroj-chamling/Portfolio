@@ -5,9 +5,13 @@ import PortfolioItem from "./PortfolioItem";
 function Portfolio() {
   return (
     <>
-      <h1 className=" underline text-4xl mb-12 md:text-4xl text-center dark:text-white font-bold">
+      <h1 className=" underline text-4xl md:text-4xl text-center dark:text-white font-bold">
         Projects
       </h1>
+      <p className=" text-center mt-4 mb-8">
+        <span className=" text-red-600 text-bold text-3xl ">! </span>
+        Click on the project to view it.
+      </p>
       <div className="flex flex-col md:flex-row items-center justify-center">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {portfolio.map((project) => (

@@ -40,11 +40,11 @@ export default [
       "This fun application shows days and time remaining for Nepali new year. If it is a new year it wishes 'Happy new Year'. This project helped me understand in depth about html css and vanilla js.",
   },
   {
-    title: "Tic Tac Toe",
-    imgUrl: "/assets/ttt.png",
-    stack: ["Flutter", "Dart"],
-    link: "#",
+    title: "Coffeo",
+    imgUrl: "/assets/coffeos.png",
+    stack: ["React", "Mongodb", "Tailwind"],
+    link: "https://coffeos.vercel.app/",
     discription:
-      "This is a mobile application for playing our favourite childhood game 'aalo cross' as in nepali. It has a toss coin as well to decide which player chooses aalo and which chooses cross. This application helped me a lot in programming logic building.",
+      "This a web application where you can order and buy your favourite cofee. This app is still under development.",
   },
 ];
