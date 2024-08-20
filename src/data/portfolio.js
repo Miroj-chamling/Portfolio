@@ -32,17 +32,17 @@ export default [
       "This app allows you to get data through webscrapping scraped from amazon sites. You can simply provide the link of the product and the product will be added to the database.",
   },
   {
-    title: "isitnewyear",
-    imgUrl: "/assets/newyear.png",
-    stack: ["HTML", "CSS", "Javascript"],
-    link: "https://isitnewyear.vercel.app/",
+    title: "Swadilo",
+    imgUrl: "/assets/swadilo.png",
+    stack: ["Nextjs", "T3", "trpc", "Typescript", "Prisma", "mongoDB"],
+    link: "https://swadilo.vercel.app/",
     discription:
-      "This fun application shows days and time remaining for Nepali new year. If it is a new year it wishes 'Happy new Year'. This project helped me understand in depth about html css and vanilla js.",
+      "This project built using the T3 Stack, including Next.js, Prisma, Tailwind CSS,tRPC and mongoDB. It is a web application designed to facilitate online food ordering, with a focus on scalability and simplicity. The project is set up with basic scaffolding, allowing for future customization and additional features.",
   },
   {
     title: "Coffeo",
     imgUrl: "/assets/coffeos.png",
-    stack: ["React", "Mongodb", "Tailwind"],
+    stack: ["React", "Mongodb", "Tailwind", "Typescript"],
     link: "https://coffeos.vercel.app/",
     discription:
       "This a web application where you can order and buy your favourite cofee. This app is still under development.",
